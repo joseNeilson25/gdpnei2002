@@ -11,8 +11,10 @@ Olá
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" link rel="stylesheet" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
-
-
+<p> Estudante de Análise e Desenvolvimento de Sistemas, busco oportunidade para adquirir experiência nas áreas de desenvolvimento de software e aplicações web.
+Atuo como desenvolvedor freelance, desenvolvendo web sites e aplicações de desktop com objetivo de facilitar o controle de serviços/vendas de determinado estabelecimento.
+Trabalho também como técnico em informática de forma autônoma prestando serviços de TI para pessoas físicas e Jurídicas. Faço manutenção em hardwares como desktops, servidores, vídeo games, switches e roteadores.
+Meu site de portfolio pessoal https://curriculogdpnei-df006.web.app/#about <p> 
 </div>
 
 - 🖥  Estudando atualmente java e web ...
