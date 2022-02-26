@@ -1,7 +1,7 @@
 ### 
-Olá, sou estudante de Análise e Desenvolvimento de Sistemas, busco oportunidade para adquirir experiência nas áreas de desenvolvimento de software e aplicações web.
-Atuo como desenvolvedor freelance, desenvolvendo web sites e aplicações de desktop com objetivo de facilitar o controle de serviços/vendas de determinado estabelecimento.
-Trabalho também como técnico em informática de forma autônoma prestando serviços de TI para pessoas físicas e Jurídicas. Faço manutenção em hardwares como desktops, servidores, vídeo games, switches e roteadores.
+Olá, sou estudante do ultimo período de Análise e Desenvolvimento de Sistemas, busco oportunidade para adquirir experiência nas áreas de desenvolvimento de aplicações web.
+Atuo como desenvolvedor freelance, desenvolvendo aplicações web para desktop e mobile com objetivo de facilitar o controle de serviços e/ou vendas de determinado estabelecimento.
+
 
 <div>
   <a href="https://github.com/gdpnei2002">
@@ -13,10 +13,7 @@ Trabalho também como técnico em informática de forma autônoma prestando serv
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
  
-
 Meu site de portfolio pessoal https://curriculogdpnei-df006.web.app/#about 
 </div>
 
