@@ -4,7 +4,6 @@ Atuo como desenvolvedor freelance, desenvolvendo landing pages e aplicações we
 
 
   <div>
-    <a href="https://github.com/gdpnei2002">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdpnei2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdpnei2002&layout=compact&langs_count=7&theme=dark"/>
   </div>
@@ -15,7 +14,8 @@ Atuo como desenvolvedor freelance, desenvolvendo landing pages e aplicações we
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
   <p>
-    Meu site de portfolio pessoal: <a> https://portifolioneilson.netlify.app/ </a> <br>
+    Meu site de portfolio pessoal: <a> https://portifolioneilson.netlify.app/ </a> <br><br>
 - 📚  Estudando atualmente React e Node.js para me tornar um desenvolvedor full stack<br>
+- 👩‍💻 Cursando Rocketseat e COD3R <br>
 - 🖥  Trabalho como freelancer ... <br>
 - 💼 Busco trabalho como desenvolvedor full stack... </p>
