@@ -12,10 +12,11 @@ Atuo como desenvolvedor freelance, desenvolvendo landing pages e aplicações we
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
   </div>
   <p>
     Meu site de portfolio pessoal: <a> https://portifolioneilson.netlify.app/ </a> <br><br>
 - 📚  Estudando atualmente React e Node.js para me tornar um desenvolvedor full stack<br>
 - 👩‍💻 Cursando Rocketseat e COD3R <br>
 - 🖥  Trabalho como freelancer ... <br>
-- 💼 Busco trabalho como desenvolvedor full stack... </p>
+- 💼 Busco trabalho como desenvolvedor freelancer Full Ftack... </p>
