@@ -16,6 +16,6 @@ Atuo como desenvolvedor full stack freelance, desenvolvendo landing pages e apli
   <p>
     Meu site de portfolio pessoal: <a href="https://portifolioneilson.netlify.app/"> https://portifolioneilson.netlify.app/ </a> <br><br>
 - 📚  Estudando atualmente React e Node.js para me aprimorar como um desenvolvedor full stack<br>
-- 👩‍💻 Cursando Rocketseat e COD3R <br>
+- 👩‍💻 Cursando Rocketseat <br>
 - 🖥  Trabalho como desenvolvedor freelancer full stack ... <br>
 - 💼 Busco trabalho como desenvolvedor Full Ftack... </p>
