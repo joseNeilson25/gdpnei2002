@@ -13,9 +13,12 @@ Atuo como desenvolvedor full stack freelance, desenvolvendo landing pages e apli
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
-  <p>
+<p>
     Meu site de portfolio pessoal: <a href="https://portifolioneilson.netlify.app/"> https://portifolioneilson.netlify.app/ </a> <br><br>
-- 📚 Estudando atualmente React.js e Node.js para me aprimorar como um desenvolvedor full stack <br>
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas <br>
+- 📚 Aprimorando conhecimentos em React.js, Node.js e React Native para melhorar minhas habilidades como um desenvolvedor full stack <br>
 - 👩‍💻 Cursando Rocketseat <br>
 - 🖥  Trabalho como desenvolvedor freelancer Full Stack ... <br>
-- 💼 Busco trabalho como desenvolvedor Full Ftack... </p>
+- 💼 Busco trabalho como desenvolvedor Full Ftack... <br>
+</p>
+<br>
