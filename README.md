@@ -2,8 +2,6 @@
 Olá, sou graduado em Análise e Desenvolvimento de Sistemas.
 Atuo como desenvolvedor full stack na THINK A.M. e freelance nas horas vagas, desenvolvendo landing pages e aplicações web com objetivo de facilitar o controle de serviços e/ou vendas de determinado estabelecimento. Desenvolvo front-end de CRM para sistemas de vendas e criação de landing pages.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdpnei2002&show_icons=true&theme=radical)
-
 <p>
     Meu site de portfolio pessoal: <a href="https://portfolioneilson.netlify.app/"> https://portfolioneilson.netlify.app/ </a>. <br><br>
 - 🎓 Formado em Analise e Desenvolvimento de Sistemas. <br>
